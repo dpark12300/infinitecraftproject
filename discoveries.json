@@ -133,5 +133,15 @@
     "name": "Tea",
     "emoji": "\ud83c\udf75",
     "is_first_discovery": false
+  },
+  {
+    "name": "Seaweed",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Incense",
+    "emoji": "\ud83d\udd6f\ufe0f",
+    "is_first_discovery": false
   }
 ]
