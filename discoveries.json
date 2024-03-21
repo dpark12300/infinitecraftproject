@@ -93,5 +93,30 @@
     "name": "Ash",
     "emoji": "\ud83c\udf0b",
     "is_first_discovery": false
+  },
+  {
+    "name": "Storm",
+    "emoji": "\u26c8\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dandelion",
+    "emoji": "\ud83c\udf3c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandstorm",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tree",
+    "emoji": "\ud83c\udf33",
+    "is_first_discovery": false
   }
 ]
