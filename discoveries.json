@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Water",
+    "emoji": "\ud83d\udca7",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wind",
+    "emoji": "\ud83c\udf2c\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Earth",
+    "emoji": "\ud83c\udf0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wave",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Plant",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smoke",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lava",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dust",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cloud",
+    "emoji": "\u2601\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swamp",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stone",
+    "emoji": "\ud83e\udea8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mud",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Engine",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Volcano",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ash",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  }
+]
