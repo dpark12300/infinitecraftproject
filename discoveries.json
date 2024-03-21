@@ -118,5 +118,20 @@
     "name": "Tree",
     "emoji": "\ud83c\udf33",
     "is_first_discovery": false
+  },
+  {
+    "name": "Planet",
+    "emoji": "\ud83e\ude90",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Surf",
+    "emoji": "\ud83c\udfc4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tea",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
   }
 ]
