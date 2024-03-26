@@ -1,4 +1,5 @@
 import asyncio
+
 from infinitecraft import InfiniteCraft
 
 
@@ -29,8 +30,10 @@ async def main():
                         novel = "❎"
 
                     # Print the combination and result
-                    print(f"{first_element} + {second_element} = {result} "
-                          f"(New: {novel})")
+                    print(
+                        f"{first_element} + {second_element} = {result} "
+                        f"(New: {novel})"
+                    )
 
                     # Apply rate limiting
                     await asyncio.sleep(rate_limit_delay)

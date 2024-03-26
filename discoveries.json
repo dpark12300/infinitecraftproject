@@ -143,5 +143,4160 @@
     "name": "Incense",
     "emoji": "\ud83d\udd6f\ufe0f",
     "is_first_discovery": false
+  },
+  {
+    "name": "Pollen",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ocean",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Marsh",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ice",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rock",
+    "emoji": "\ud83e\udea8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Puddle",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wine",
+    "emoji": "\ud83c\udf77",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Oasis",
+    "emoji": "\ud83c\udfdc\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Beach",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "River",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kelp",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Perfume",
+    "emoji": "\ud83d\udc43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Honey",
+    "emoji": "\ud83c\udf6f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lightning",
+    "emoji": "\u26a1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dragon",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Brick",
+    "emoji": "\ud83e\uddf1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Phoenix",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Glass",
+    "emoji": "\ud83e\udd43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sun",
+    "emoji": "\u2600\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chai",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sushi",
+    "emoji": "\ud83c\udf63",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hurricane",
+    "emoji": "\ud83c\udf00",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mist",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Windmill",
+    "emoji": "\ud83c\udf2c\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Eruption",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tornado",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Seed",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dust Storm",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dune",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Leaf",
+    "emoji": "\ud83c\udf43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Surfing",
+    "emoji": "\ud83c\udfc4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kite",
+    "emoji": "\ud83e\ude81",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Allergy",
+    "emoji": "\ud83e\udd27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Island",
+    "emoji": "\ud83c\udfdd\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clay",
+    "emoji": "\ud83c\udffa",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tractor",
+    "emoji": "\ud83d\ude9c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Soil",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flower",
+    "emoji": "\ud83c\udf38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Desert",
+    "emoji": "\ud83c\udfdc\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Forest",
+    "emoji": "\ud83c\udf32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Moon",
+    "emoji": "\ud83c\udf19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Teapot",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Titanic",
+    "emoji": "\ud83d\udea2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Geysir",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Train",
+    "emoji": "\ud83d\ude82",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steampunk",
+    "emoji": "\ud83d\udd6f\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Surfboard",
+    "emoji": "\ud83c\udfc4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Surfer",
+    "emoji": "\ud83c\udfc4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Venus Flytrap",
+    "emoji": "\ud83e\udeb2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mushroom",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fossil",
+    "emoji": "\ud83e\uddb4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Car",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tobacco",
+    "emoji": "\ud83d\udeac",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Weed",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cactus",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Statue",
+    "emoji": "\ud83d\uddfd",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Thunder",
+    "emoji": "\u26c8\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Prayer",
+    "emoji": "\ud83d\ude4f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bee",
+    "emoji": "\ud83d\udc1d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Obsidian",
+    "emoji": "\ud83d\udd2a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smog",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vacuum",
+    "emoji": "\ud83e\uddf9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cinder",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wish",
+    "emoji": "\ud83c\udf20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wood",
+    "emoji": "\ud83c\udf32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tea Bag",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rainbow",
+    "emoji": "\ud83c\udf08",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Jet",
+    "emoji": "\u2708\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sky",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mudslide",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Earthquake",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Poseidon",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ghost",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Quagmire",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bog",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frog",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mangrove",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lagoon",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mosquito",
+    "emoji": "\ud83e\udd9f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fairy",
+    "emoji": "\ud83e\uddda",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Venus",
+    "emoji": "\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steamroller",
+    "emoji": "\ud83d\ude82",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Meteor",
+    "emoji": "\ud83d\udcab",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sphinx",
+    "emoji": "\ud83d\udc2b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pyramid",
+    "emoji": "\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Coral",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Buddha",
+    "emoji": "\ud83e\uddd8\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Amber",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mudweed",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lotus",
+    "emoji": "\ud83c\udf3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Helicopter",
+    "emoji": "\ud83d\ude81",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandbox",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Saturn",
+    "emoji": "\ud83e\ude90",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Submarine",
+    "emoji": "\ud83d\udea4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fireworks",
+    "emoji": "\ud83c\udf86",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pencil",
+    "emoji": "\u270f\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Matcha",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cough",
+    "emoji": "\ud83e\udd27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tempest",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandcastle",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Palm Tree",
+    "emoji": "\ud83c\udf34",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mars",
+    "emoji": "\ud83e\ude90",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Genie",
+    "emoji": "\ud83e\uddde\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandwich",
+    "emoji": "\ud83e\udd6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Snake",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Palm",
+    "emoji": "\ud83c\udf34",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Plantea",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fish",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Iceberg",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pond",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Holy Water",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mirage",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lake",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Scent",
+    "emoji": "\ud83d\udc43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Meade",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Electricity",
+    "emoji": "\u26a1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sea Serpent",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Energy",
+    "emoji": "\u26a1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sneeze",
+    "emoji": "\ud83e\udd27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ship",
+    "emoji": "\ud83d\udea2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pottery",
+    "emoji": "\ud83c\udffa",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Boat",
+    "emoji": "\ud83d\udea4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lily",
+    "emoji": "\ud83c\udf38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tide",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Soup",
+    "emoji": "\ud83c\udf72",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Oil",
+    "emoji": "\ud83d\udee2\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bong",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Prickly Pear",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Acid Rain",
+    "emoji": "\ud83c\udf27\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sponge",
+    "emoji": "\ud83e\uddfd",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Paper",
+    "emoji": "\ud83d\udcc3",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Plane",
+    "emoji": "\u2708\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tadpole",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Malaria",
+    "emoji": "\ud83e\udd9f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mermaid",
+    "emoji": "\ud83e\udddc\u200d\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Aphrodite",
+    "emoji": "\ud83d\udc98",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Meteorite",
+    "emoji": "\ud83d\udcab",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Nile",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tomb",
+    "emoji": "\ud83e\udea6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Reef",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Whiskey",
+    "emoji": "\ud83e\udd43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Water Lily",
+    "emoji": "\ud83c\udf38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Splash",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lung",
+    "emoji": "\ud83e\udec1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Coconut",
+    "emoji": "\ud83e\udd65",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bottle",
+    "emoji": "\ud83c\udf7e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Soggy",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Alcohol",
+    "emoji": "\ud83c\udf77",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kiln",
+    "emoji": "\ud83e\uddf1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lens",
+    "emoji": "\ud83d\udd0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Solar",
+    "emoji": "\u2600\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wasabi",
+    "emoji": "\ud83c\udf36\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Eclipse",
+    "emoji": "\ud83c\udf11",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Engine",
+    "emoji": "\ud83d\ude82",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Trap",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dinosaur",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crash",
+    "emoji": "\ud83d\udca5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cigarette",
+    "emoji": "\ud83d\udeac",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Saguaro",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Candle",
+    "emoji": "\ud83d\udd6f\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pollution",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Black Hole",
+    "emoji": "\ud83d\udd73\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Campfire",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rocket",
+    "emoji": "\ud83d\ude80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fireball",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Boiling Frog",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Firefly",
+    "emoji": "\ud83e\udd8b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mummy",
+    "emoji": "\ud83e\udddf",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Enlightenment",
+    "emoji": "\ud83d\udca1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Firefighter",
+    "emoji": "\ud83d\ude92",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Explosion",
+    "emoji": "\ud83d\udca5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Match",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Toast",
+    "emoji": "\ud83c\udf5e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Snow",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Balloon",
+    "emoji": "\ud83c\udf88",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sail",
+    "emoji": "\u26f5\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smell",
+    "emoji": "\ud83d\udc43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "House",
+    "emoji": "\ud83c\udfe0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Window",
+    "emoji": "\ud83e\ude9f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sunflower",
+    "emoji": "\ud83c\udf3b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Fish",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying",
+    "emoji": "\u2708\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Werewolf",
+    "emoji": "\ud83d\udc3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kettle",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Zephyr",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Airship",
+    "emoji": "\ud83d\udee9\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Spore",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tumbleweed",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Spirit",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Breeze",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Prince",
+    "emoji": "\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Comet",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Coral Reef",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sailboat",
+    "emoji": "\u26f5\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mountain",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vineyard",
+    "emoji": "\ud83c\udf47",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Delta",
+    "emoji": "\u2b07\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rice",
+    "emoji": "\ud83c\udf5a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dirt",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Continent",
+    "emoji": "\ud83c\udf0e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Farm",
+    "emoji": "\ud83d\udc04",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Atlantis",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robot",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Toadstool",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tire",
+    "emoji": "\ud83d\udd29",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Golem",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Diamond",
+    "emoji": "\ud83d\udc8e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Landslide",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Zombie",
+    "emoji": "\ud83e\udddf",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Toad",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gnome",
+    "emoji": "\ud83d\udc7a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flat Earth",
+    "emoji": "\ud83c\udf0e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Titan",
+    "emoji": "\ud83c\udf0e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Drawing",
+    "emoji": "\ud83d\udd8c\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Life",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Medusa",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Geothermal",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stew",
+    "emoji": "\ud83c\udf72",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sauna",
+    "emoji": "\ud83e\uddd6\u200d\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mirror",
+    "emoji": "\ud83e\ude9e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sashimi",
+    "emoji": "\ud83c\udf63",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steamboat",
+    "emoji": "\ud83d\udef3\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Geyser",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hot Spring",
+    "emoji": "\u2668\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Locomotive",
+    "emoji": "\ud83d\ude82",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cigar",
+    "emoji": "\ud83d\udeac",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vaporizer",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Thunderstorm",
+    "emoji": "\u26c8\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vapor",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Captain Nemo",
+    "emoji": "\ud83d\udc33",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sunset",
+    "emoji": "\ud83c\udf05",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ammonite",
+    "emoji": "\ud83e\udd95",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vine",
+    "emoji": "\ud83c\udf47",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Date",
+    "emoji": "\ud83d\udc91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wall",
+    "emoji": "\ud83e\uddf1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hay Fever",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pot",
+    "emoji": "\ud83e\udd58",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Garden",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Carnivorous Plant",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fuel",
+    "emoji": "\u26fd",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pulp",
+    "emoji": "\ud83c\udf4a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Resin",
+    "emoji": "\ud83c\udf6f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Flower",
+    "emoji": "\ud83c\udf38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Medicine",
+    "emoji": "\ud83d\udc8a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Potato",
+    "emoji": "\ud83e\udd54",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Salad",
+    "emoji": "\ud83e\udd57",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Caduceus",
+    "emoji": "\ud83d\udcff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smoker",
+    "emoji": "\ud83d\udeac",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chimney",
+    "emoji": "\ud83c\udfe0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smoke Detector",
+    "emoji": "\ud83d\udea8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Exhaust",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "High",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ozymandias",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clean",
+    "emoji": "\ud83e\uddfc",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rings",
+    "emoji": "\ud83d\udc8d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Periscope",
+    "emoji": "\ud83d\udce1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Djinn",
+    "emoji": "\ud83e\uddde\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Burnt",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hawaii",
+    "emoji": "\ud83c\udf3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Firebird",
+    "emoji": "\ud83d\udc26",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Salamander",
+    "emoji": "\ud83d\udc22",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Olympus Mons",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vinegar",
+    "emoji": "\ud83c\udf45",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dragonfly",
+    "emoji": "\ud83d\udc1b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Telescope",
+    "emoji": "\ud83d\udd2d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flour",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Compost",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lunar",
+    "emoji": "\ud83c\udf15",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dustbin",
+    "emoji": "\ud83d\uddd1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dust Trap",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fungus",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rust",
+    "emoji": "\ud83d\udd28",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Angel",
+    "emoji": "\ud83d\udc7c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Broom",
+    "emoji": "\ud83e\uddf9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dengue",
+    "emoji": "\ud83e\udd9f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pixie",
+    "emoji": "\ud83e\uddda",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Eraser",
+    "emoji": "\ud83d\uddd1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Green Tea",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rover",
+    "emoji": "\ud83d\udc36",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lamp",
+    "emoji": "\ud83d\udca1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Castle",
+    "emoji": "\ud83c\udff0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cotton",
+    "emoji": "\ud83e\uddf6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crop",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cloud Trap",
+    "emoji": "\u2601\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Car",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Zeus",
+    "emoji": "\u26a1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rainforest",
+    "emoji": "\ud83c\udf33",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Nirvana",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Airplane",
+    "emoji": "\u2708\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flood",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tidal Wave",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tsunamic",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Shard",
+    "emoji": "\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sunami",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Disaster",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Destruction",
+    "emoji": "\ud83d\udca5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mario",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tea Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Koi",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ruins",
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Marsquake",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandtami",
+    "emoji": "\ud83c\udfdc\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Penguin",
+    "emoji": "\ud83d\udc27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Moonshine",
+    "emoji": "\ud83c\udf19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lizard",
+    "emoji": "\ud83e\udd8e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Alligator",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cyclone",
+    "emoji": "\ud83c\udf00",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lily Pad",
+    "emoji": "\ud83d\udc90",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crocodile",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Loch Ness",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Monster Truck",
+    "emoji": "\ud83d\ude9a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Witch",
+    "emoji": "\ud83e\uddd9\u200d\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swamp Thing",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Monster",
+    "emoji": "\ud83d\udc7e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cannabis",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fishbowl",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Leviathan",
+    "emoji": "\ud83d\udc0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vase",
+    "emoji": "\ud83c\udffa",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Emulsion",
+    "emoji": "\ud83d\udca7",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bubbles",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Egypt",
+    "emoji": "\ud83c\uddea\ud83c\uddec",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Moses",
+    "emoji": "\ud83d\udc2b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wet",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Microscope",
+    "emoji": "\ud83d\udd2c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Plesiosaur",
+    "emoji": "\ud83e\udd95",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wax",
+    "emoji": "\ud83e\uddfc",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Acid",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Drain",
+    "emoji": "\ud83d\udebd",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Soggy Toast",
+    "emoji": "\ud83e\udd5e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Aquarium",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bird",
+    "emoji": "\ud83d\udc26",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Algae",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Painting",
+    "emoji": "\ud83c\udfa8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sweat",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sunrise",
+    "emoji": "\ud83c\udf05",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dating",
+    "emoji": "\ud83d\udc91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dam",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gasoline",
+    "emoji": "\u26fd\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Juice",
+    "emoji": "\ud83c\udf79",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Potion",
+    "emoji": "\ud83e\uddea",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vodka",
+    "emoji": "\ud83c\udf78",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Drink",
+    "emoji": "\ud83c\udf79",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Waterfall",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Soda",
+    "emoji": "\ud83e\udd64",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pasta",
+    "emoji": "\ud83c\udf5d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Iron",
+    "emoji": "\ud83d\udd28",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mop",
+    "emoji": "\ud83e\uddf9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Moat",
+    "emoji": "\ud83c\udff0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cloth",
+    "emoji": "\ud83e\uddf5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Amazon",
+    "emoji": "\ud83d\udce6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Plumber",
+    "emoji": "\ud83d\udebd",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wizard",
+    "emoji": "\ud83e\uddd9\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sea Monster",
+    "emoji": "\ud83d\udc19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vampire",
+    "emoji": "\ud83e\udddb",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cannon",
+    "emoji": "\ud83d\udd2b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ceramic",
+    "emoji": "\ud83c\udffa",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chili",
+    "emoji": "\ud83c\udf36\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fever",
+    "emoji": "\ud83e\udd12",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Siren",
+    "emoji": "\ud83d\udea8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bomb",
+    "emoji": "\ud83d\udca3",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Burn",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Magnifying Glass",
+    "emoji": "\ud83d\udd0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Breath",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Barbecue",
+    "emoji": "\ud83c\udf56",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Light",
+    "emoji": "\ud83d\udca1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Big Bang",
+    "emoji": "\ud83d\udca5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bonfire",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Burnt Toast",
+    "emoji": "\ud83c\udf5e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pop",
+    "emoji": "\ud83d\udca5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pirate",
+    "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fireplace",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flame",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rubber",
+    "emoji": "\ud83e\uddca",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Coal",
+    "emoji": "\u26ab\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Skeleton",
+    "emoji": "\ud83d\udc80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Prometheus",
+    "emoji": "\ud83d\udc7d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Reflection",
+    "emoji": "\ud83d\udcab",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Nautilus",
+    "emoji": "\ud83d\udc1a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ammonia",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Romance",
+    "emoji": "\ud83d\udc98",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cook",
+    "emoji": "\ud83c\udf73",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Torch",
+    "emoji": "\ud83d\udd26",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cure",
+    "emoji": "\ud83d\udc8a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chip",
+    "emoji": "\ud83c\udf5f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Salsa",
+    "emoji": "\ud83c\udf36\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ketchup",
+    "emoji": "\ud83c\udf45",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bread",
+    "emoji": "\ud83c\udf5e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Tornado",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Burning Monster Truck",
+    "emoji": "\ud83d\ude92",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swamp Fire",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ariel",
+    "emoji": "\ud83e\udddc\u200d\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hangover",
+    "emoji": "\ud83c\udf77",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pterodactyl",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hot Air Balloon",
+    "emoji": "\ud83c\udf88",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Blizzard",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fart",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Curtain",
+    "emoji": "\ud83c\udf80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Zeppelin",
+    "emoji": "\ud83c\udf88",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Avalanche",
+    "emoji": "\ud83c\udf28\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fan",
+    "emoji": "\ud83c\udf2c\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frisbee",
+    "emoji": "\ud83e\udd4f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hair",
+    "emoji": "\ud83d\udc87",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hula",
+    "emoji": "\ud83c\udf3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Mario",
+    "emoji": "\ud83c\udfae",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Whale",
+    "emoji": "\ud83d\udc33",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cider",
+    "emoji": "\ud83c\udf4e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Map",
+    "emoji": "\ud83d\uddfa\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Landing",
+    "emoji": "\ud83d\udeec",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rose",
+    "emoji": "\ud83c\udf39",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Grave",
+    "emoji": "\ud83e\udea6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Drunk",
+    "emoji": "\ud83c\udf7a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cave",
+    "emoji": "\ud83d\udd73\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Trash",
+    "emoji": "\ud83d\uddd1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hole",
+    "emoji": "\ud83d\udd73\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Charcoal",
+    "emoji": "\ud83c\udf56",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Snowman",
+    "emoji": "\u2603\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wolf",
+    "emoji": "\ud83d\udc3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Landship",
+    "emoji": "\ud83d\udea2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "King",
+    "emoji": "\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Paddy",
+    "emoji": "\ud83c\udf40",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Land",
+    "emoji": "\ud83c\udf04",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Field",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dwarf",
+    "emoji": "\ud83d\udc51",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Atlas",
+    "emoji": "\ud83c\udf0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Human",
+    "emoji": "\ud83d\udc68",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Grape",
+    "emoji": "\ud83c\udf47",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fence",
+    "emoji": "\ud83d\udea7",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Farmer",
+    "emoji": "\ud83d\ude9c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fertilizer",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Salt",
+    "emoji": "\ud83e\uddc2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ant",
+    "emoji": "\ud83d\udc1c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Landfill",
+    "emoji": "\ud83d\uddd1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Trap",
+    "emoji": "\ud83d\udd12",
+    "is_first_discovery": false
+  },
+  {
+    "name": "UFO",
+    "emoji": "\ud83d\udef8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Jungle",
+    "emoji": "\ud83c\udf34",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Yoshi",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Temple",
+    "emoji": "\ud83c\udfef",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Troll",
+    "emoji": "\ud83d\udc79",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steamship",
+    "emoji": "\ud83d\udea2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "SpongeBob",
+    "emoji": "\ud83c\udf4d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Love",
+    "emoji": "\u2764\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Scotch",
+    "emoji": "\ud83e\udd43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Camera",
+    "emoji": "\ud83d\udcf7",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Trap",
+    "emoji": "\ud83e\uddf2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stegosaurus",
+    "emoji": "\ud83e\udd95",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Time",
+    "emoji": "\u23f0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Whistle",
+    "emoji": "\ud83c\udfb6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pressure",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Scream",
+    "emoji": "\ud83d\ude31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Graffiti",
+    "emoji": "\ud83c\udfa8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Turbine",
+    "emoji": "\ud83c\udf00",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steam Detector",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pickle",
+    "emoji": "\ud83e\udd52",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Space",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Luigi",
+    "emoji": "\ud83d\udc7e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Amphora",
+    "emoji": "\ud83c\udffa",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lighthouse",
+    "emoji": "\ud83c\udf05",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Beach House",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Shipwreck",
+    "emoji": "\ud83d\udea2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Radio",
+    "emoji": "\ud83d\udcfb",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tuxedo",
+    "emoji": "\ud83c\udfa9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Raft",
+    "emoji": "\ud83d\udef6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Book",
+    "emoji": "\ud83d\udcda",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Papyrus",
+    "emoji": "\ud83d\udcdc",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Oxygen",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dark Matter",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Space Plant",
+    "emoji": "\ud83e\udeb4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lantern",
+    "emoji": "\ud83c\udfee",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cereal",
+    "emoji": "\ud83e\udd63",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Christmas Tree",
+    "emoji": "\ud83c\udf84",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Greenhouse",
+    "emoji": "\ud83c\udfe1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wolfsbane",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rice Paddy",
+    "emoji": "\ud83c\udf5a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Food",
+    "emoji": "\ud83c\udf55",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cyborg",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Emerald",
+    "emoji": "\ud83d\udc9a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flytrap",
+    "emoji": "\ud83e\udeb4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fruit",
+    "emoji": "\ud83c\udf47",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ivy",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Biofuel",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pineapple",
+    "emoji": "\ud83c\udf4d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Galileo",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wheat",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Piranha Plant",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Poison",
+    "emoji": "\u2620\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Illusion",
+    "emoji": "\ud83d\udd2e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Firework",
+    "emoji": "\ud83c\udf86",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smoke Signal",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cowboy",
+    "emoji": "\ud83e\udd20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Carbon",
+    "emoji": "\u2697\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Salmon",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "French Fries",
+    "emoji": "\ud83c\udf5f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smoking",
+    "emoji": "\ud83d\udeac",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Santa",
+    "emoji": "\ud83c\udf85",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Air",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lord of the Rings",
+    "emoji": "\ud83c\udf33",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Smokefly",
+    "emoji": "\ud83d\udc1b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Astronomer",
+    "emoji": "\ud83d\udd2d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Devil",
+    "emoji": "\ud83d\ude08",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vaporwave",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Magma",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stone Soup",
+    "emoji": "\ud83c\udf72",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sulfur",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ring",
+    "emoji": "\ud83d\udc8d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Goblin",
+    "emoji": "\ud83d\udc79",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ammolite",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Metal",
+    "emoji": "\ud83e\udd18",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Mario",
+    "emoji": "\ud83d\udd25\ud83d\udc68\u200d\ud83d\ude80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Starfish",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Star",
+    "emoji": "\u2b50\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crop Duster",
+    "emoji": "\ud83d\ude9c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dustmalaria",
+    "emoji": "\ud83c\udf1e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dusty",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Universe",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sarcophagus",
+    "emoji": "\ud83e\udea6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crumbs",
+    "emoji": "\ud83c\udf6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dust Bunny",
+    "emoji": "\ud83d\udc30",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Dust",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cinderella",
+    "emoji": "\ud83d\udc60",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rice Pudding",
+    "emoji": "\ud83c\udf5a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dust Bowl",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dustbuster",
+    "emoji": "\ud83e\uddf9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Art",
+    "emoji": "\ud83c\udfa8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Nemo",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dustpan",
+    "emoji": "\ud83e\uddf9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dust Detector",
+    "emoji": "\ud83c\udf2b\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hobbit",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cake",
+    "emoji": "\ud83c\udf82",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Archaeologist",
+    "emoji": "\ud83d\udd75\ufe0f\u200d\u2640",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dustquake",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tux",
+    "emoji": "\ud83d\udc27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dust Truck",
+    "emoji": "\ud83d\ude9a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rainbow Trout",
+    "emoji": "\ud83d\udc1f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kraken",
+    "emoji": "\ud83d\udc19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cloudy Rice",
+    "emoji": "\u2601\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Robocloud",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Nimbus",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Cloud",
+    "emoji": "\u2601\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rime",
+    "emoji": "\ud83c\udf28\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sky Castle",
+    "emoji": "\ud83c\udff0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Shark",
+    "emoji": "\ud83e\udd88",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tidal",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Oil Spill",
+    "emoji": "\ud83d\udca6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Maltsunami",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Coconut Milk",
+    "emoji": "\ud83e\udd65",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Party",
+    "emoji": "\ud83c\udf89",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Apocalypse",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "T-Rex",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stink",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ruin",
+    "emoji": "\ud83c\udfda\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tsunamori",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Money",
+    "emoji": "\ud83d\udcb5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gnomone",
+    "emoji": "\ud83d\udd50",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Death",
+    "emoji": "\ud83d\udc80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Tsunami",
+    "emoji": "\ud83d\udd25\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Potato Chip",
+    "emoji": "\ud83c\udf5f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "High Tide",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wedding",
+    "emoji": "\ud83d\udc70",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rustami",
+    "emoji": "\ud83d\udc99",
+    "is_first_discovery": false
+  },
+  {
+    "name": "T-Shirt",
+    "emoji": "\ud83d\udc55",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Godzilla",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swamp Tsunami",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kaiju",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Toxic",
+    "emoji": "\u2620\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sinkhole",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Loch Ness Monster",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Quicksand",
+    "emoji": "\ud83c\udf35",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pencil Sharpener",
+    "emoji": "\ud83d\udcd4",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Skunk",
+    "emoji": "\ud83e\udda8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frankenstein",
+    "emoji": "\ud83e\udddf",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gumbo",
+    "emoji": "\ud83c\udf72",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tar",
+    "emoji": "\ud83c\udfb6",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mutant",
+    "emoji": "\ud83e\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Duck",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Monkey",
+    "emoji": "\ud83d\udc12",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swasabi",
+    "emoji": "\ud83c\udf36\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Swamp",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swampasaurus",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Jack-o-Lantern",
+    "emoji": "\ud83c\udf83",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Marshmallow",
+    "emoji": "\ud83c\udf61",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Yeti",
+    "emoji": "\ud83e\uddca",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mansion",
+    "emoji": "\ud83c\udff0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Africa",
+    "emoji": "\ud83c\udf0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cyclops",
+    "emoji": "\ud83d\udc41\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gorgon",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Venus Fly Trap",
+    "emoji": "\ud83e\udeb2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Quack",
+    "emoji": "\ud83e\udd86",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Meadow",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Alien",
+    "emoji": "\ud83d\udc7d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gingerbread Man",
+    "emoji": "\ud83c\udf6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dry Erase",
+    "emoji": "\ud83d\udd8a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Amphibian",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swamp Wave",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frost",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Brandy",
+    "emoji": "\ud83c\udf78",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tractor Beam",
+    "emoji": "\ud83c\udf00",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Accident",
+    "emoji": "\ud83d\ude91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Priest",
+    "emoji": "\ud83d\udc7c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Foggy Ghost",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Riddle",
+    "emoji": "\ud83e\udde9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rescue",
+    "emoji": "\ud83d\ude91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sonar",
+    "emoji": "\ud83d\udd2d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Matcha Latte",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mead",
+    "emoji": "\ud83c\udf6f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cold",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ghost Ship",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pea",
+    "emoji": "\ud83e\udd66",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Irish Coffee",
+    "emoji": "\u2615\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Brontosaurus",
+    "emoji": "\ud83e\udd95",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Haunted House",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sake",
+    "emoji": "\ud83c\udf76",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lost City",
+    "emoji": "\ud83c\udff0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Skid",
+    "emoji": "\ud83d\udef9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Horizon",
+    "emoji": "\ud83c\udf05",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clear",
+    "emoji": "\ud83c\udf1e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Luau",
+    "emoji": "\ud83c\udf34",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dog",
+    "emoji": "\ud83d\udc36",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lost",
+    "emoji": "\ud83c\udf32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Boulder",
+    "emoji": "\ud83e\udea8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pudding",
+    "emoji": "\ud83c\udf6e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sculpture",
+    "emoji": "\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Honeycomb",
+    "emoji": "\ud83c\udf6f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Skimming",
+    "emoji": "\ud83d\udee5\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stonehenge",
+    "emoji": "\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Moonstone",
+    "emoji": "\ud83c\udf15",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Railroad",
+    "emoji": "\ud83d\ude86",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wheel",
+    "emoji": "\u2699\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pipe",
+    "emoji": "\ud83d\udeb0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Petrified Wood",
+    "emoji": "\ud83e\udea8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Altar",
+    "emoji": "\ud83d\uded0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Blade",
+    "emoji": "\ud83d\udde1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rainbow Rock",
+    "emoji": "\ud83c\udf08",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Squirrel",
+    "emoji": "\ud83d\udc3f\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pearl",
+    "emoji": "\ud83e\uddaa",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Coughing",
+    "emoji": "\ud83e\udd27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gargoyle",
+    "emoji": "\ud83d\udc09",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Scone",
+    "emoji": "\ud83c\udf6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sword",
+    "emoji": "\ud83d\udde1\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Snot",
+    "emoji": "\ud83e\udd27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Anchor",
+    "emoji": "\u2693\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Soupstone",
+    "emoji": "\ud83c\udf5c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tablet",
+    "emoji": "\ud83d\udcf1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Stone",
+    "emoji": "\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gravity",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "S\u2019more",
+    "emoji": "\ud83c\udf6b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Nose",
+    "emoji": "\ud83d\udc43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pangaea",
+    "emoji": "\ud83c\udf0e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Jewel",
+    "emoji": "\ud83d\udc8e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Colossus",
+    "emoji": "\ud83c\udfd7\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Calendar",
+    "emoji": "\ud83d\udcc5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Prison",
+    "emoji": "\ud83d\udd12",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pill",
+    "emoji": "\ud83d\udc8a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Slate",
+    "emoji": "\ud83d\uddfb",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Moai",
+    "emoji": "\ud83d\uddff",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Egg",
+    "emoji": "\ud83e\udd5a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Jade",
+    "emoji": "\ud83d\udc9a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mill",
+    "emoji": "\ud83c\udfed",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rubble",
+    "emoji": "\ud83d\udca5",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pig",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Wine",
+    "emoji": "\ud83c\udf77",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Adobe",
+    "emoji": "\ud83c\udfa8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Sushi",
+    "emoji": "\ud83c\udf63",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cheese",
+    "emoji": "\ud83e\uddc0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Teapot",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mud Geyser",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy",
+    "emoji": "\ud83d\udca9",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rally",
+    "emoji": "\ud83c\udfc1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Adam",
+    "emoji": "\ud83d\udc68",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Helicopter",
+    "emoji": "\ud83d\ude81",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mucus",
+    "emoji": "\ud83e\udd27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Coconut",
+    "emoji": "\ud83e\udd65",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Wasabi",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pane",
+    "emoji": "\ud83c\udf5e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Werepig",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Oyster",
+    "emoji": "\ud83e\uddaa",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Muddy Toadstool",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mudpot",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mississippi",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mud Bath",
+    "emoji": "\ud83d\udec0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mustard",
+    "emoji": "\ud83c\udf2d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Pig",
+    "emoji": "\ud83d\udc37",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chocolate",
+    "emoji": "\ud83c\udf6b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Refrigerator",
+    "emoji": "\ud83e\uddca",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tesla",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Windshield",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Carrot",
+    "emoji": "\ud83e\udd55",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tank",
+    "emoji": "\ud83d\udee2\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Jet Ski",
+    "emoji": "\ud83c\udfc4\u200d\u2642\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Carnivore",
+    "emoji": "\ud83d\udc06",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Racecar",
+    "emoji": "\ud83c\udfce\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bumblebee",
+    "emoji": "\ud83d\udc1d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Bulldozer",
+    "emoji": "\ud83d\ude9c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tremor",
+    "emoji": "\ud83c\udf0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tinkerbell",
+    "emoji": "\ud83e\uddda\u200d\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "V8",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Piston",
+    "emoji": "\ud83d\udd27",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Choo Choo",
+    "emoji": "\ud83d\ude82",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandwitch",
+    "emoji": "\ud83e\udd6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Souped-up",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Blueprint",
+    "emoji": "\ud83d\udcd0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pneumatic",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Time Machine",
+    "emoji": "\u23f0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Space Ship",
+    "emoji": "\ud83d\ude80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Engine",
+    "emoji": "\ud83d\ude92",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pop Tart",
+    "emoji": "\ud83c\udf6a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Snowmobile",
+    "emoji": "\ud83c\udfc2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Garage",
+    "emoji": "\ud83d\ude97",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Transformer",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rice Cooker",
+    "emoji": "\ud83c\udf5a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Gear",
+    "emoji": "\ud83d\udee0\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lawnmower",
+    "emoji": "\ud83d\ude9c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vaccine",
+    "emoji": "\ud83d\udc89",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mr. Potato Head",
+    "emoji": "\ud83e\udd54",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Salad Dressing",
+    "emoji": "\ud83e\udd57",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Battery",
+    "emoji": "\ud83d\udd0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hubble",
+    "emoji": "\ud83c\udf0c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Junk",
+    "emoji": "\ud83d\udeae",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Headlight",
+    "emoji": "\ud83d\udca1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Engineer",
+    "emoji": "\ud83d\udc77",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Wreck",
+    "emoji": "\ud83d\udea2",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mario Kart",
+    "emoji": "\ud83c\udfce\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cup",
+    "emoji": "\ud83c\udf76",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Carp",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mars Rover",
+    "emoji": "\ud83d\udef0\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Swamp Engine",
+    "emoji": "\ud83d\udc0a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Truck",
+    "emoji": "\ud83d\ude9a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ice Cream",
+    "emoji": "\ud83c\udf66",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pompeii",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Unicorn",
+    "emoji": "\ud83e\udd84",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Turtle",
+    "emoji": "\ud83d\udc22",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vulcan",
+    "emoji": "\ud83d\udd96",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ham",
+    "emoji": "\ud83c\udf56",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Krakken",
+    "emoji": "\ud83d\udc19",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pumice",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Supernova",
+    "emoji": "\ud83c\udf20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Prince of Persia",
+    "emoji": "\ud83c\udfdc\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sailor",
+    "emoji": "\u26f5\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pizza",
+    "emoji": "\ud83c\udf55",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Echo",
+    "emoji": "\ud83d\udc6f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ammonoid",
+    "emoji": "\ud83e\udd95",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fortress",
+    "emoji": "\ud83c\udff0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mount Doom",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Vesuvius",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fertile",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lava Lamp",
+    "emoji": "\ud83d\udca1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mordor",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cotton Candy",
+    "emoji": "\ud83c\udf6d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Olympus",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tea Volcano",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Rebirth",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Joint",
+    "emoji": "\ud83c\udf43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pancake",
+    "emoji": "\ud83e\udd5e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crayon",
+    "emoji": "\ud83d\udd8d\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Soot",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stoner",
+    "emoji": "\ud83c\udf43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cement",
+    "emoji": "\ud83e\uddf1",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Asia",
+    "emoji": "\ud83c\udf0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Steamboat Willie",
+    "emoji": "\ud83d\udc2d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Potash",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Couch Potato",
+    "emoji": "\ud83d\udecb\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Stoned",
+    "emoji": "\ud83c\udf43",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Batman",
+    "emoji": "\ud83e\udd87",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Thunderbird",
+    "emoji": "\ud83e\udd85",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Teacup",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Tea Storm",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Meteor Shower",
+    "emoji": "\ud83c\udf20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Kali",
+    "emoji": "\ud83d\udc79",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Squid",
+    "emoji": "\ud83e\udd91",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Typhoon",
+    "emoji": "\ud83c\udf00",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hail",
+    "emoji": "\u2744\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Umbrella",
+    "emoji": "\u2602\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Solar Eclipse",
+    "emoji": "\ud83c\udf11",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Ammon",
+    "emoji": "\ud83d\udc2a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Fire Storm",
+    "emoji": "\ud83d\udd25",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dandelion Roll",
+    "emoji": "\ud83c\udf3c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lawn",
+    "emoji": "\ud83c\udf31",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Yellowstone",
+    "emoji": "\ud83c\udf0b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Marijuana",
+    "emoji": "\ud83c\udf3f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Clock",
+    "emoji": "\u23f0",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Parachute",
+    "emoji": "\ud83e\ude82",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Poltergeist",
+    "emoji": "\ud83d\udc7b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Asteroid",
+    "emoji": "\ud83d\udcab",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lion",
+    "emoji": "\ud83e\udd81",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Seahorse",
+    "emoji": "\ud83d\udc20",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cough Syrup",
+    "emoji": "\ud83e\udd12",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Viper",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pufferfish",
+    "emoji": "\ud83d\udc21",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Asthma",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dandylion",
+    "emoji": "\ud83c\udf3c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dandelight",
+    "emoji": "\ud83c\udf3c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Frog Prince",
+    "emoji": "\ud83d\udc38",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Scarecrow",
+    "emoji": "\ud83c\udf83",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Mountain Dew",
+    "emoji": "\ud83d\udca7",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Blowout",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Blow",
+    "emoji": "\ud83d\udca8",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Spy",
+    "emoji": "\ud83d\udd75\ufe0f\u200d\u2640",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Lei",
+    "emoji": "\ud83c\udf3a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dandelion Wine",
+    "emoji": "\ud83c\udf3c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Herbal Tea",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pillow",
+    "emoji": "\ud83d\udecc",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Super Mario",
+    "emoji": "\ud83c\udf44",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Chameleon",
+    "emoji": "\ud83e\udd8e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand Dragon",
+    "emoji": "\ud83d\udc32",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hourglass",
+    "emoji": "\u231b",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandboarding",
+    "emoji": "\ud83c\udfdc\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandboard",
+    "emoji": "\ud83c\udfdc\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandman",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dune Buggy",
+    "emoji": "\ud83d\udc1e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandal",
+    "emoji": "\ud83d\udc61",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand Buddha",
+    "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Cobra",
+    "emoji": "\ud83d\udc0d",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Crab",
+    "emoji": "\ud83e\udd80",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand Trap",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandblast",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandbot",
+    "emoji": "\ud83e\udd16",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand Golem",
+    "emoji": "\ud83c\udfdc\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand Art",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Pringles",
+    "emoji": "\ud83e\udd54",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand Angel",
+    "emoji": "\ud83d\udc7c",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Oolong",
+    "emoji": "\ud83c\udf75",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Dust Devil",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sand Lizard",
+    "emoji": "\ud83e\udd8e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Hay",
+    "emoji": "\ud83c\udf3e",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandpunk",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandtrap",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Green",
+    "emoji": "\ud83d\udc9a",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandpaper",
+    "emoji": "\ud83e\uddfb",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Sandy",
+    "emoji": "\ud83c\udfd6\ufe0f",
+    "is_first_discovery": false
+  },
+  {
+    "name": "Flying Sand",
+    "emoji": "\ud83c\udf2a\ufe0f",
+    "is_first_discovery": false
   }
 ]
