@@ -1,19 +1,22 @@
+# trunk-ignore-all(isort)
 import asyncio
-import time
 import random
+import time
 from collections import defaultdict
-from aiohttp import ClientError
 
-from infinitecraft import InfiniteCraft, Element
+from aiohttp import ClientError
+from infinitecraft import Element, InfiniteCraft
 
 RATE_LIMIT_DELAY = 2  # seconds
 RETRY_DELAY = 10  # seconds
+
 
 async def main():
     async with InfiniteCraft() as game:
         # Track discoveries per element
         discovery_counts = defaultdict(int)
-        novel_discovery_counts = defaultdict(int)  # New dictionary to track successful novel discoveries
+        # New dictionary to track successful novel discoveries
+        novel_discovery_counts = defaultdict(int)
         novel_elements = []  # List to store novel elements
 
         while True:
@@ -22,7 +25,8 @@ async def main():
             # Prioritize elements involved in fewer successful novel discoveries
             candidates = sorted(
                 elements,
-                key=lambda e: (novel_discovery_counts[e.name], discovery_counts[e.name], random.random()),
+                key=lambda e: (
+                    novel_discovery_counts[e.name], discovery_counts[e.name], random.random()),
             )
 
             for i in range(len(candidates)):
@@ -43,7 +47,8 @@ async def main():
 
                     # Print the combination and result
                     print(
-                        f"Combining {first_element} and {second_element} resulted in {result} (Novel: {novel})"
+                        f"Combining {first_element} and {second_element} resulted in {result} (Novel: {
+                            novel})"
                     )
 
                     # Update discovery counts
@@ -51,8 +56,10 @@ async def main():
                     discovery_counts[second_element.name] += 1
                     if novel:
                         discovery_counts[result.name] += 1
-                        novel_elements.append(result)  # Add novel result to the list
-                        novel_discovery_counts[first_element.name] += 1  # Update novel discovery counts
+                        # Add novel result to the list
+                        novel_elements.append(result)
+                        # Update novel discovery counts
+                        novel_discovery_counts[first_element.name] += 1
                         novel_discovery_counts[second_element.name] += 1
 
                     # Apply rate limiting
@@ -77,14 +84,17 @@ async def main():
 
                     # Print the combination and result
                     print(
-                        f"Combining {first_element} and {second_element} resulted in {result} (Novel: {novel})"
+                        f"Combining {first_element} and {second_element} resulted in {result} (Novel: {
+                            novel})"
                     )
 
                     # Update discovery counts
                     if novel:
                         discovery_counts[result.name] += 1
-                        novel_elements.append(result)  # Add novel result to the list
-                        novel_discovery_counts[first_element.name] += 1  # Update novel discovery counts
+                        # Add novel result to the list
+                        novel_elements.append(result)
+                        # Update novel discovery counts
+                        novel_discovery_counts[first_element.name] += 1
                         novel_discovery_counts[second_element.name] += 1
 
                     # Apply rate limiting
